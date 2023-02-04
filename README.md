@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashaleyzerzon
 - 👀 I’m interested in DevOps in all it's aspects, CI/CD, k8s, etc.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Terraform.
 - 📫 How to reach me ...
 
 <!---
